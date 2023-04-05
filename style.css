@@ -69,7 +69,11 @@ section {
     position: absolute;
     top: 90px;
     left: 700px;
+    margin-right: 200px;
     color: #fff;
+    font-family: jura;
+    line-height: 1.8;
+    
 }
 
 .fotoluiz{
